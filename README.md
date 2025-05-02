@@ -1,4 +1,4 @@
-### Hi dude, I hope you're doing well 👋 :ghost:
+### Hi, Welcome to my profile 👋 :ghost:
 
 
 <div align="center">
