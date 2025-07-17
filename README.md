@@ -1,4 +1,4 @@
-### 🖋️ About Me:
+### 🖋️ About Me
 
 Front-end developer with 3+ years of experience at Snapp!, contributing to scalable, user-focused web applications. Proficient in React, JavaScript, and responsive design principles, with a strong focus on delivering seamless user experiences. Passionate about tackling complex challenges to refine technical expertise and drive innovation. Eager to bring my skills and commitment to excellence to a forward-thinking team.
 
