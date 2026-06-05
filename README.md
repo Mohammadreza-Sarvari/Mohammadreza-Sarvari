@@ -27,7 +27,3 @@ Front-end developer with 3+ years of experience at Snapp!, contributing to scala
 
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Mohammadreza-Sarvari&style=flat-square)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammadreza-Sarvari&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadreza-Sarvari&layout=compact)
